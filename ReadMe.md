@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Electrical Engineer with a passion for Science and new Technologies.<br>
+Bachelor of Engineering graduate with specialization in Electrical Engineering with minor in Mechanical Systems. 1+ years of professional work experience through diverse range of positions. I have discovered a passion and interest in Software Development through personal projects and also significant course work in machine learning, optimization, and Embedded/C programming.<br>
 
 
 ## 🌐 Socials:
